@@ -58,7 +58,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- compile dependencies -->
+		<!-- compile dependenciesfull -->
 
 		<dependency>
 			<groupId>org.springframework</groupId>
